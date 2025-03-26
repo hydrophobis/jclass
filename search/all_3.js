@@ -1,26 +1,4 @@
 var searchData=
 [
-  ['d2f_0',['d2f',['../jclass_8c.html#a29f62ca82d2ff3ddb9d45638c5985706',1,'jclass.c']]],
-  ['d2i_1',['d2i',['../jclass_8c.html#a4568704d5ad58e1b2ff763db43253129',1,'jclass.c']]],
-  ['d2l_2',['d2l',['../jclass_8c.html#a605e0390f8cb63718791a45cc8f653eb',1,'jclass.c']]],
-  ['dadd_3',['dadd',['../jclass_8c.html#a772d3b21584c912ca711a418ee1d6a36',1,'jclass.c']]],
-  ['daload_4',['daload',['../jclass_8c.html#a6cfe8317c40137884e419d9c9e9259fd',1,'jclass.c']]],
-  ['dastore_5',['dastore',['../jclass_8c.html#ad46084fcde36412f9c04aa49cbdab6e7',1,'jclass.c']]],
-  ['dcmpg_6',['dcmpg',['../jclass_8c.html#a8c14a40e0041167b0e7bc715b89472f5',1,'jclass.c']]],
-  ['dcmpl_7',['dcmpl',['../jclass_8c.html#aac1321b58332c43f2b74e64a44004ff0',1,'jclass.c']]],
-  ['dconst_5f0_8',['dconst_0',['../jclass_8c.html#a06b623842362ff5bad4321bd3901c041',1,'jclass.c']]],
-  ['dconst_5f1_9',['dconst_1',['../jclass_8c.html#a7f89f5063a41ce732da654abce7f1c81',1,'jclass.c']]],
-  ['ddiv_10',['ddiv',['../jclass_8c.html#ad3b90ca72b51776459d43ea7ee1f44c9',1,'jclass.c']]],
-  ['dload_11',['dload',['../jclass_8c.html#af8f230c5e3bf25ca417d0f2b08c45ba9',1,'jclass.c']]],
-  ['dmul_12',['dmul',['../jclass_8c.html#a88c0605a1396c37313618a58e11623b6',1,'jclass.c']]],
-  ['dneg_13',['dneg',['../jclass_8c.html#ac8493828f03e41133fa33a860001321b',1,'jclass.c']]],
-  ['dreturn_14',['dreturn',['../jclass_8c.html#a50018d2162d978eb4bc01ab41c6153ed',1,'jclass.c']]],
-  ['dstore_15',['dstore',['../jclass_8c.html#a681d6db4c907c830bb9773d1ee9c7f6b',1,'jclass.c']]],
-  ['dsub_16',['dsub',['../jclass_8c.html#af38c889b73967d262c395af067071ba1',1,'jclass.c']]],
-  ['dup_17',['dup',['../jclass_8c.html#a841871e8e493d723fa32f6603e144474',1,'jclass.c']]],
-  ['dup2_18',['dup2',['../jclass_8c.html#a21ee32e7ee90d02c99685ebfc4ba7d8b',1,'jclass.c']]],
-  ['dup2_5fx1_19',['dup2_x1',['../jclass_8c.html#a7adc353e0c29565a46a94f892721a095',1,'jclass.c']]],
-  ['dup2_5fx2_20',['dup2_x2',['../jclass_8c.html#ad05c56fb10efa03b1d08b45fcd249caf',1,'jclass.c']]],
-  ['dup_5fx1_21',['dup_x1',['../jclass_8c.html#abbfa5a4140ca24d9147a451202ec0261',1,'jclass.c']]],
-  ['dup_5fx2_22',['dup_x2',['../jclass_8c.html#afa7ca353522d6f05cdee507bd8813ac4',1,'jclass.c']]]
+  ['4_20permanent_20ban_0',['4. Permanent Ban',['../md_CODE__OF__CONDUCT.html#autotoc_md10',1,'']]]
 ];
