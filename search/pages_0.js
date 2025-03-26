@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['jclass_0',['jclass',['../md_README.html',1,'']]]
+  ['contributing_0',['CONTRIBUTING',['../md_CONTRIBUTING.html',1,'']]]
 ];

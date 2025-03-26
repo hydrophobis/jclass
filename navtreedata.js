@@ -25,6 +25,7 @@
 var NAVTREE =
 [
   [ "jclass", "index.html", [
+    [ "CONTRIBUTING", "md_CONTRIBUTING.html", null ],
     [ "jclass", "md_README.html", null ],
     [ "Files", "files.html", [
       [ "File List", "files.html", "files_dup" ],

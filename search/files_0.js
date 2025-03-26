@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['example_2ec_0',['example.c',['../example_8c.html',1,'']]]
+  ['contributing_2emd_0',['CONTRIBUTING.md',['../CONTRIBUTING_8md.html',1,'']]]
 ];
