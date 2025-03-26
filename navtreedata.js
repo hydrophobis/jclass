@@ -24,40 +24,12 @@
 */
 var NAVTREE =
 [
-  [ "jclass", "index.html", [
-    [ "Contributor Covenant Code of Conduct", "md_CODE__OF__CONDUCT.html", [
-      [ "Our Pledge", "md_CODE__OF__CONDUCT.html#autotoc_md1", null ],
-      [ "Our Standards", "md_CODE__OF__CONDUCT.html#autotoc_md2", null ],
-      [ "Enforcement Responsibilities", "md_CODE__OF__CONDUCT.html#autotoc_md3", null ],
-      [ "Scope", "md_CODE__OF__CONDUCT.html#autotoc_md4", null ],
-      [ "Enforcement", "md_CODE__OF__CONDUCT.html#autotoc_md5", null ],
-      [ "Enforcement Guidelines", "md_CODE__OF__CONDUCT.html#autotoc_md6", [
-        [ "1. Correction", "md_CODE__OF__CONDUCT.html#autotoc_md7", null ],
-        [ "2. Warning", "md_CODE__OF__CONDUCT.html#autotoc_md8", null ],
-        [ "3. Temporary Ban", "md_CODE__OF__CONDUCT.html#autotoc_md9", null ],
-        [ "4. Permanent Ban", "md_CODE__OF__CONDUCT.html#autotoc_md10", null ]
-      ] ],
-      [ "Attribution", "md_CODE__OF__CONDUCT.html#autotoc_md11", null ]
-    ] ],
-    [ "CONTRIBUTING", "md_CONTRIBUTING.html", null ],
-    [ "jclass", "md_README.html", null ],
-    [ "Files", "files.html", [
-      [ "File List", "files.html", "files_dup" ],
-      [ "Globals", "globals.html", [
-        [ "All", "globals.html", "globals_dup" ],
-        [ "Functions", "globals_func.html", "globals_func" ],
-        [ "Variables", "globals_vars.html", null ],
-        [ "Enumerator", "globals_eval.html", null ],
-        [ "Macros", "globals_defs.html", null ]
-      ] ]
-    ] ]
-  ] ]
+  [ "jclass", "index.html", ]
 ];
 
 var NAVTREEINDEX =
 [
-"example_8c.html",
-"jclass_8c.html#ad99980f3110041de270ec04c53107b8f"
+"index.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
