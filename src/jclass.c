@@ -1689,3 +1689,14 @@ void code_attribute_end() {
     emit_u2(0);        // attributes_count
     attribute_end();
 }
+
+void write_class(char* outputName){
+    FILE *file = fopen(outputName, "wb");
+    if (file) {
+        fwrite(outputBuffer, 1, outputIndex, file);
+        fclose(file);
+    } else {
+        fprintf(stderr, "Failed to open output file\n");
+        return;
+    }
+}
