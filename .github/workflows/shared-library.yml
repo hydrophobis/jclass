@@ -1,0 +1,26 @@
+name: Build Shared Library
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build-so:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Compile C file to shared object
+        run: |
+          gcc -shared -fPIC -o libjclass.so src/jclass.c
+        shell: bash
+
+      - name: Upload shared object
+        uses: actions/upload-artifact@v4
+        with:
+          name: shared-library
+          path: libjclass.so
+          
+      - name: Remove SO
+        run: rm -rf libjclass.so

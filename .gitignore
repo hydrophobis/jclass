@@ -1,0 +1,12 @@
+test.c
+.vscode
+
+# Doxygen
+footerFile
+footerFile.bak
+headerFile
+headerFile.bak
+styleSheetFile
+styleSheetFile.bak
+html
+latex

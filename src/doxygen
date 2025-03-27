@@ -1,0 +1,3 @@
+#!/bin/bash
+doxygen -w html headerFile footerFile styleSheetFile config  
+doxygen config
